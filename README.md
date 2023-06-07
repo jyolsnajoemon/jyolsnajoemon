@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **open source**
 
-- 🎨 I love listening to **music, watching films, reading books & anything artistic!**
+- 🎨 I'm passionate about **photography, literature, music & anything artistic!**
 
 - 📫 How to reach me **jyolsnajoemon@gmail.com**
 
