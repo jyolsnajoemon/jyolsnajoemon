@@ -1,8 +1,8 @@
-[![MasterHead]("https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif")]
+![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Jyolsna</h1>
 <h3 align="center">A computer science freshman learning web development</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/7d/9f/787d9f43d9736608896afc364f7094fd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyolsnajoemon&label=Profile%20views&color=0e75b6&style=flat" alt="jyolsnajoemon" /> </p>
 
@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning **Web Development**
 
 - 🤝 I’m looking for help with **open source**
+
+- 🎨 I love listening to **music, watching films, reading books & anything artistic!**
 
 - 📫 How to reach me **jyolsnajoemon@gmail.com**
 
