@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jyolsnajoemon@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://bio.link/jyolsnaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayyyycodes" height="30" width="40" /></a> -->
 <a href="https://bio.link/jyolsnaj">Connect with me</a>
