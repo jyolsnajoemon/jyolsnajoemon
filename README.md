@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jyolsna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/7d/9f/787d9f43d9736608896afc364f7094fd.jpg">
+<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/78/7d/9f/787d9f43d9736608896afc364f7094fd.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyolsnajoemon&label=Profile%20views&color=0e75b6&style=flat" alt="jyolsnajoemon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyolsnajoemon" alt="jyolsnajoemon" /></a> </p>
