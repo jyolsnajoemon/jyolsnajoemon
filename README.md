@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayyyycodes" target="blank"><img src="https://img.shields.io/twitter/follow/jayyyycodes?logo=twitter&style=for-the-badge" alt="jayyyycodes" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 🤝 I’m looking for help with **open source**
 
